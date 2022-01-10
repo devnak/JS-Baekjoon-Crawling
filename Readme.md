@@ -4,10 +4,6 @@
 
     백준 문제집을 난이도에 따라 오름차순 정렬 후 출력
 
-## Source
-
-    Link : [Baekjoon Wookbook](https://www.acmicpc.net/workbook/top)
-
 ## Grammar used
 
     document.querySelector("");
@@ -37,3 +33,7 @@
         sort를 사용하여 간단하게 정렬가능
     - join
         배열의 정보를 하나의 정보로 합칠때 사용
+
+## Source
+
+[Baekjoon Wookbook](https://www.acmicpc.net/workbook/top)
